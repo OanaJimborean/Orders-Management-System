@@ -1,0 +1,12 @@
+Order with id: 3
+
+Client: name: Pop Ioana; id: 2; address: Str. Campului, Nr.10; phone: 0756199678; email: popioana@gmail.com
+
+Date and time: 2022-05-02 21:29:31
+
+Total price: 40.5
+
+Products:
+
+Chips, price: 4.5, id: 4, quantity: 1, total price: 4.5
+Brush, price: 12.0, id: 3, quantity: 3, total price: 36.0

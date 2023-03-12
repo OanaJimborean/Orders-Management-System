@@ -1,0 +1,12 @@
+Order with id: 2
+
+Client: name: Paul Muresan; id: 3; address: Str. Dorobantilor, Nr.256; phone: 0727199648; email: paulmuresan@gmail.com
+
+Date and time: 2022-05-02 21:29:09
+
+Total price: 18.4
+
+Products:
+
+Chocolate, price: 6.0, id: 1, quantity: 2, total price: 12.0
+Dorna Water, price: 1.6, id: 2, quantity: 4, total price: 6.4

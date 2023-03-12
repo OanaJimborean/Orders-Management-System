@@ -1,0 +1,12 @@
+Order with id: 4
+
+Client: name: Paul Muresan; id: 3; address: Str. Dorobantilor, Nr.256; phone: 0727199648; email: paulmuresan@gmail.com
+
+Date and time: 2022-05-05 09:00:05
+
+Total price: 36.5
+
+Products:
+
+Chips, price: 4.5, id: 4, quantity: 1, total price: 4.5
+Notebook, price: 16.0, id: 6, quantity: 2, total price: 32.0
